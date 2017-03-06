@@ -19,6 +19,6 @@
             <activity android:name="xyz.guutong.androidpdfviewer.PdfViewActivity" android:theme="@style/AppTheme"/>
         </config-file>
         <source-file src="src/android/pdfviewer-library.aar" target-dir="libs"/>
-        <framework src="src/android/AndroidNativePDFViewer.gradle" custom="true" type="gradleReference" />
+        <framework src="src/android/AndroidNativePdfViewer.gradle" custom="true" type="gradleReference" />
     </platform>
 </plugin>
