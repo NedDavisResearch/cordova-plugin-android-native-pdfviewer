@@ -10,16 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheCorbin/cordova-plugin-android-native-pdfviewer.git"
+    "url": "git+https://github.com/NedDavisResearch/cordova-plugin-android-native-pdfviewer.git"
   },
   "keywords": [
     "ecosystem:cordova",
     "cordova-android"
   ],
-  "author": "Ryan Corbin",
+  "author": "Ben Morgan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TheCorbin/cordova-plugin-android-native-pdfviewer/issues"
+    "url": "https://github.com/NedDavisResearch/cordova-plugin-android-native-pdfviewer/issues"
   },
-  "homepage": "https://github.com/TheCorbin/cordova-plugin-android-native-pdfviewer#readme"
+  "homepage": "https://github.com/NedDavisResearch/cordova-plugin-android-native-pdfviewer#readme"
 }
